@@ -3,7 +3,8 @@
 1. Fork and Clone (Local) the following repository [CNPJ](https://github.com/fabioserpa/CNPJ-full)
 2. Download every file from [Link](http://receita.economia.gov.br/orientacao/tributaria/cadastros/cadastro-nacional-de-pessoas-juridicas-cnpj/dados-publicos-cnpj) and save into a file named PASTA_COM_ZIPS
 
-![CNPJ%20Data%20Brazil/Captura_de_Pantalla_2020-01-12_a_la(s)_22.15.07.png](CNPJ%20Data%20Brazil/Captura_de_Pantalla_2020-01-12_a_la(s)_22.15.07.png)
+tutorial_image_1.png
+
 
 ## 3. Run the following in terminal
 
