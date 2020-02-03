@@ -35,11 +35,11 @@
 
 ## 10. Now all the information is classified in folders containing the province and in these folders there are many csv files containing information grouped by city.
 
-![alt text](tutorial_image_3.png)
+![alt text](tutorial_image_4.png)
 
 ## 11.  Now after naming each column we can explore the data using jupyter notebook.
 
-![alt text](tutorial_image_4.png)
+![alt text](tutorial_image_3.png)
 
 ## 12. These are the available variables with their possible values:
 
