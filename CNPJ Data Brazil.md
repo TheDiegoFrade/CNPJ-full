@@ -19,7 +19,7 @@
 
 ## 6. Wait until the data is being transformed and saved into PASTA_DE_SAIDA
 
-![CNPJ%20Data%20Brazil/Captura_de_Pantalla_2020-01-12_a_la(s)_22.22.05.png](CNPJ%20Data%20Brazil/Captura_de_Pantalla_2020-01-12_a_la(s)_22.22.05.png)
+![alt text](tutorial_image_2.png)
 
 ## 7. For separating into Cities
 
@@ -35,11 +35,11 @@
 
 ## 10. Now all the information is classified in folders containing the province and in these folders there are many csv files containing information grouped by city.
 
-![CNPJ%20Data%20Brazil/Captura_de_Pantalla_2020-01-15_a_la(s)_0.08.30.png](CNPJ%20Data%20Brazil/Captura_de_Pantalla_2020-01-15_a_la(s)_0.08.30.png)
+![alt text](tutorial_image_3.png)
 
 ## 11.  Now after naming each column we can explore the data using jupyter notebook.
 
-![CNPJ%20Data%20Brazil/Screenshot_from_2020-01-15_12-06-28.png](CNPJ%20Data%20Brazil/Screenshot_from_2020-01-15_12-06-28.png)
+![alt text](tutorial_image_4.png)
 
 ## 12. These are the available variables with their possible values:
 
